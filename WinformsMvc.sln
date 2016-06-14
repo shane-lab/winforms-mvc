@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsMvc", "WinformsMvc\WinformsMvc.csproj", "{2A6AE87C-38C2-4E19-BD67-B5B31085CD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsMvc.Example", "WinformsMvc.Example\WinformsMvc.Example.csproj", "{A404CE30-BDEB-43C7-9749-3AB514D1A012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6AE87C-38C2-4E19-BD67-B5B31085CD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6AE87C-38C2-4E19-BD67-B5B31085CD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6AE87C-38C2-4E19-BD67-B5B31085CD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6AE87C-38C2-4E19-BD67-B5B31085CD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A404CE30-BDEB-43C7-9749-3AB514D1A012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A404CE30-BDEB-43C7-9749-3AB514D1A012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A404CE30-BDEB-43C7-9749-3AB514D1A012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A404CE30-BDEB-43C7-9749-3AB514D1A012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
